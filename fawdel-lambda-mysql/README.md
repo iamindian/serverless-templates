@@ -2,10 +2,10 @@
 
 ## Frameworks
 
-### aws-serverless-express
-### nodemon with babel-node
+* aws-serverless-express
+* nodemon with babel-node
 
 ## Usage: 
 
-### npm run local
+* npm run local
 
