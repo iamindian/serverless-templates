@@ -8,4 +8,5 @@
 ## Usage: 
 
 * npm run local
+* npm run deploy 
 
