@@ -8,10 +8,10 @@
     "local": "port=3000 nodemon --exec babel-node src/app.local.js"
   },
   "keywords": [
-    "google",
-    "places"
+    "aws",
+    "lambda"
   ],
-  "author": "linzhimin",
+  "author": "Fawdel team",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.1.2",
