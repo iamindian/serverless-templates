@@ -8,12 +8,12 @@
 
 ## Template usage
 
-* npm install -g serverless
-+ serverless --template-path /path/to/template --path /path/to/service
+1. npm install -g serverless
+1. serverless --template-path /path/to/template --path /path/to/service
 
 ## Service usage
 
-* npm install --verbose
-+ npm run local
-+ npm run deploy 
+2. npm install --verbose
+2. npm run local
+2. npm run deploy 
 
