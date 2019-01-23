@@ -1,11 +1,19 @@
 # Lambda boilerplate
 
-## Frameworks
+## Support features
 
-### aws-serverless-express
-### nodemon with babel-node
+* babel7
+* aws-serverless-express
+* nodemon with babel-node
 
-## Usage: 
+## Template usage
 
-### npm run local
+1. npm install -g serverless
+1. serverless --template-path /path/to/template --path /path/to/service
+
+## Service usage
+
+1. npm install --verbose
+1. npm run local
+1. npm run deploy 
 
