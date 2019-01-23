@@ -13,7 +13,7 @@
 
 ## Service usage
 
-2. npm install --verbose
-2. npm run local
-2. npm run deploy 
+1. npm install --verbose
+1. npm run local
+1. npm run deploy 
 
